@@ -35,7 +35,7 @@ _Coming soon!_
 
 ## Contributing
 
-We value your contributions and welcome developers of all skill levels to help us improve Ti GPT. Please read our [contribution guide](LINK_TO_CONTRIBUTION_GUIDE) to get started.
+We value your contributions and welcome developers of all skill levels to help us improve Ti GPT. Please read our [contribution guide](https://github.com/House-of-AI/tiGPT/blob/main/contribution%20Guide) to get started.
 
 ## License
 
