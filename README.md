@@ -39,7 +39,7 @@ We value your contributions and welcome developers of all skill levels to help u
 
 ## License
 
-_Information about the license._
+![Apache 2.0 license](https://github.com/House-of-AI/tiGPT/blob/main/LICENSE)
 
 We are excited to see your contributions and are always ready to help or answer questions. Thank you for helping us make Ti GPT even better!
 
