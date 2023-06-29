@@ -4,7 +4,7 @@ We're excited that you're interested in contributing to Ti GPT! This document ou
 
 ## Code of Conduct
 
-Please read and follow our [Code of Conduct](LINK_TO_CODE_OF_CONDUCT). We strive to cultivate an inclusive and respectful community for everyone.
+Please read and follow our [Code of Conduct](https://github.com/House-of-AI/tiGPT/blob/main/Code%20of%20Conduct.md). We strive to cultivate an inclusive and respectful community for everyone.
 
 ## How Can I Contribute?
 
