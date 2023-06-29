@@ -2,9 +2,9 @@
 
 ![tigpt](https://github.com/House-of-AI/tiGPT/assets/26055694/cd33b959-e215-4374-a986-7f5c309ecd20)
 
-# Ti GPT: Threat Intelligence with GPT
+# Ti GPT: Threat Intelligence with chatGPT
 
-Ti GPT is a powerful, GPT-based threat intelligence tool that integrates with open APIs and various threat intelligence sources such as VirusTotal, AbuseIPDB, AlienVault OTX, and Malpedia. Our goal is to revolutionize the way we understand and respond to digital threats.
+Ti GPT is a powerful, chatGPT-based threat intelligence tool that integrates with APIs and various threat intelligence sources such as VirusTotal, AbuseIPDB, AlienVault OTX, and Malpedia. Our goal is to revolutionize the way we understand and respond to digital threats.
 
 ## Table of Contents
 
@@ -17,7 +17,7 @@ Ti GPT is a powerful, GPT-based threat intelligence tool that integrates with op
 
 ## Project Overview
 
-Ti GPT is designed to ask pertinent questions about Indicators of Compromise (IOCs) and Tactics, Techniques, and Procedures (TTPs) from various repositories. By leveraging the power of GPT, it provides a more comprehensive and nuanced understanding of digital threats.
+Ti GPT is designed to ask pertinent questions about Indicators of Compromise (IOCs) and Tactics, Techniques, and Procedures (TTPs) from various repositories. Leveraging the power of chatGPT, it provides a more comprehensive and nuanced understanding of digital threats.
 
 ## Features
 
